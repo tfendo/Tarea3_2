@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\98589d51f400fe730304f0f052b75f62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\70f3ef14e5b95ad27d0181e3f08cda0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b0ad63d424bd4a9e6f7d2810bdd745e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\97af04e61f2b8c701c64ed1496bd971a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6e76feb1ec660186eb28124e9c02915\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\104093b52c9d83e9ca14331329bf921e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e8bf6f228caa2cc41da1b7e62a25e9ad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0f87c1a0cd411a5731a2d6da8744814b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3a589b87e7f720853556ccb3c0e3f16b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c0f2135c458390620a99220fc5ea760\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b0ec22b130c669ec83a59651c3f22b55\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:18:5-45
+		INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\98589d51f400fe730304f0f052b75f62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\98589d51f400fe730304f0f052b75f62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\70f3ef14e5b95ad27d0181e3f08cda0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\70f3ef14e5b95ad27d0181e3f08cda0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b0ad63d424bd4a9e6f7d2810bdd745e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b0ad63d424bd4a9e6f7d2810bdd745e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\97af04e61f2b8c701c64ed1496bd971a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\97af04e61f2b8c701c64ed1496bd971a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6e76feb1ec660186eb28124e9c02915\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6e76feb1ec660186eb28124e9c02915\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\104093b52c9d83e9ca14331329bf921e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\104093b52c9d83e9ca14331329bf921e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e8bf6f228caa2cc41da1b7e62a25e9ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e8bf6f228caa2cc41da1b7e62a25e9ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0f87c1a0cd411a5731a2d6da8744814b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0f87c1a0cd411a5731a2d6da8744814b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3a589b87e7f720853556ccb3c0e3f16b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3a589b87e7f720853556ccb3c0e3f16b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c0f2135c458390620a99220fc5ea760\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c0f2135c458390620a99220fc5ea760\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b0ec22b130c669ec83a59651c3f22b55\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b0ec22b130c669ec83a59651c3f22b55\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hugo\Desktop\calculadora\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
